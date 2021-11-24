@@ -9,4 +9,4 @@ Sincerely, Melanee
 
 
 
-![FACE DETECTION](https://github.com/Melanee-Melanee/my-face-detection/blob/main/TRUE.png)
+![FACE DETECTION](https://github.com/Melanee-Melanee/my-face-detection/blob/main/melanee.png)
