@@ -16,5 +16,6 @@ https://user-images.githubusercontent.com/74653444/176834346-3dc09da6-7173-42a1-
 
 
 
+![custom face detection](https://github.com/user-attachments/assets/f755b8a3-43f0-4ce2-95d0-a73e75582077)
 
 
