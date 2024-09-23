@@ -5,7 +5,6 @@ I can not share my source code for free since I have spent much time for this pr
 melaneepython@gmail.com.  
 
 
-Sincerely, Melanee
 
 
 https://user-images.githubusercontent.com/74653444/176834346-3dc09da6-7173-42a1-8921-3c7d6d0383ed.mp4
