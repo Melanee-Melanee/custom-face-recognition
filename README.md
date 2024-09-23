@@ -1,7 +1,7 @@
 # Face-Recognition-Project
-I have coded a program that can recognize faces without creating datasets!
-In this project, my program can receive an image as a main image and then can compare it with the test image and recognise it who is she/he.
-I can not share my source code for free since I have spent much time for this project but if anyone who is interested in my project can contact me:
+I have coded a program that can recognise faces without creating datasets!
+In this project, my program can input an image as a main image and then can compare it with the test image and recognise it who is she/he.
+I can not share my source code for free since I have spent much time for this project but anyone who is interested in my project can contact me:
 melaneepython@gmail.com.  
 
 
